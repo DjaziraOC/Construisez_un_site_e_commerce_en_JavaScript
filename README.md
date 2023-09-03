@@ -2,13 +2,13 @@
 
 Projet n°5 du parcours [développeur web chez OpenClassrooms](https://openclassrooms.com/fr/paths185-developpeur-web#path-tabs)
 
-L client Kanap, est une marque de canapés qui vend ses produits depuis sa boutique exclusivement. Aujourd’hui, celle-ci souhaiterait avoir une plateforme de e-commerce en plus de sa boutique physique pour vendre ses produits sur Internet.
+Le client Kanap, est une marque de canapés qui vend ses produits depuis sa boutique exclusivement. Aujourd’hui, celle-ci souhaiterait avoir une plateforme de e-commerce en plus de sa boutique physique pour vendre ses produits sur Internet.
 
 ## Objectif 
 L'objectif étant d'implémenter de manière dynamique le site Kanap par :
 - [x] l'unification des travaux déjà réalisés par l’équipe en intégrant dynamiquement les éléments de l’API dans les différentes pages web avec JavaScript. Le code du front-end et de l’API est disponible [sur ce repo](https://github.com/OpenClassrooms-Student-Center/P5-Dev-Web-Kanap).
 
-- [x] Mettre en place un plan de [test d’acceptation](/docs/DW+P5+-+Modele+plan+tests+acceptation%20(3).xlsx) à partir de ce template que nous avons pour habitude d’utiliser.
+- [x] Mettre en place un plan de [test d’acceptation](/docs/DW+P5+-+Modele+plan+tests+acceptation%20(3).xlsx) à partir de ce template qui nous a été fournis.
 
 ![desktop ](/docs/maquette.png)
 
@@ -25,7 +25,7 @@ Des spécifications [techniques et fonctionnelles du projet](https://course.oc-s
 
 ## Page Produit
 
-- [x] Cette page affiche (de manière dynamique) les détails du produit sur lequel l'utilisateur a cliqué depuis la page d’accueil.
+- [x] Afficher (de manière dynamique) les détails du produit sur lequel l'utilisateur a cliqué depuis la page d’accueil.
 - [x] Depuis cette page, l’utilisateur peut sélectionner une quantité, une couleur, et ajouter le produit à son panier.
 
 ## Page Panier
